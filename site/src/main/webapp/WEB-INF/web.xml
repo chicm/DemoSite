@@ -102,7 +102,7 @@
     
     <servlet-mapping>
         <servlet-name>mycompany</servlet-name>
-        <url-pattern>/</url-pattern>
+        <url-pattern>/demosite</url-pattern>
     </servlet-mapping>
     
     <!-- The RESTApiServlet can be disabled, but doesn't have to be. It will throw an exception if 
